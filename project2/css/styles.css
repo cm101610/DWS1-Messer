@@ -1,0 +1,29 @@
+/***** Font *****/
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+}
+
+/***** Colors *****/
+
+body {
+	border: 2px solid #363B48;
+	background-color: #F4F5F0;
+	padding: 10px;
+}
+
+h1, h2, h3 {
+	color: #1E4477;
+}
+
+p {
+	color: A09F9C;
+}
+
+strong {
+	color: #DC343B;
+}
+
+em {
+	color: #363B48;
+}

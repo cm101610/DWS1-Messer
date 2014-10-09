@@ -99,17 +99,28 @@ a:active {
 
 ul.mainlinks {
 	list-style-type: none;
+	border-color: #003D67;
+	border-width: 4px;
+	border-style: dashed;
+	padding: 10px 40px;
+	margin-left: auto;
+	margin-right: auto;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 2;
 }
 
 ul.wsc {
 	list-style-type: circle;
-	list-style-position: inside;
 	border-color: #003D67;
 	border-width: 4px;
-	border-style: dotted;
+	border-style: none;
 	padding: 10px 40px;
 	margin-left: auto;
 	margin-right: auto;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 2;
 }
 
 ul {

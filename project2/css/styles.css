@@ -90,3 +90,16 @@ a:active {
 	text-decoration: none;
 	color: #606C75;
 }
+
+ul.mainlinks {
+	list-style-type: none;
+}
+
+ul.wsc {
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+ul {
+	list-style-type: none;
+}

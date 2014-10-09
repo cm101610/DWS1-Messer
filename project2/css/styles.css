@@ -39,27 +39,27 @@ em {
 
 h1 {
 	font-family: Gill Sans, Arial, sans-serif;
-	font-size: 4.0em;
+	font-size: 4.0em; /***** 400% *****/
 	text-transform: uppercase;
 	text-align: center;
 }
 
 h2 {
 	font-family: Gill Sans, Arial, sans-serif;
-	font-size: 2.5em;
+	font-size: 2.5em; /***** 250% *****/
 	text-transform: uppercase;
 	text-align: center;
 }
 
 h3 {
 	font-family: Gill Sans, Arial, sans-serif;
-	font-size: 1.5em;
+	font-size: 1.5em; /***** 150% *****/
 	text-transform: uppercase;
 	text-align: center;
 }
 
 blockquote {
 	font-family: Lobster, cursive;
-	font-size: 2.5em;
+	font-size: 2.5em; /***** 250% *****/
 }
 

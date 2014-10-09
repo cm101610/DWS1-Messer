@@ -8,16 +8,16 @@ body {
 
 body {
 	border: 2px solid #363B48;
-	background-color: #F4F5F0;
+	background-color: #F4F4F4;
 	padding: 10px;
 }
 
 h1, h2, h3 {
-	color: #1E4477;
+	color: #003D67;
 }
 
 p {
-	color: A09F9C;
+	color: #001A33;
 }
 
 strong {
@@ -67,4 +67,26 @@ blockquote {
 	font-size: 2.5em; /***** 250% *****/
 	opacity: 0.7;
 	line-height: 1.5;
+}
+
+/***** Link Styling *****/
+
+a:link {
+	text-decoration: none;
+	color: #003D67;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #7DA8D9;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #DC343B;
+}
+
+a:active {
+	text-decoration: none;
+	color: #606C75;
 }

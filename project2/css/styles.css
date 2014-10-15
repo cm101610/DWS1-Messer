@@ -58,6 +58,7 @@ h1 {
 	text-transform: uppercase;
 	text-align: center;
 	font-weight: normal;
+	text-shadow: 2px 2px #7DA8D9;
 }
 
 h2 {
@@ -67,6 +68,7 @@ h2 {
 	text-transform: uppercase;
 	text-align: center;
 	font-weight: normal;
+	text-shadow: 2px 2px #7DA8D9;
 	text-decoration: underline;
 }
 
@@ -77,6 +79,7 @@ h3 {
 	text-transform: uppercase;
 	text-align: center;
 	font-weight: lighter;
+	text-shadow: 2px 2px #7DA8D9;
 }
 
 blockquote {

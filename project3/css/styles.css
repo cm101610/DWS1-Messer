@@ -168,15 +168,15 @@ img.alignnone {
 
 #content {
 	float: left;
-	width: 700px;
-	margin: 20px;
+	width: 60%;
+	margin: 2%;
 	padding: 10px;
 }
 
 #sidebar {
 	float: left;
-	width: 350px;
-	margin: 10px;
+	width: 30%;
+	margin: 1%;
 	padding: 10px;
 }
 

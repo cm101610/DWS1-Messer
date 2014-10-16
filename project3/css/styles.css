@@ -147,16 +147,12 @@ ul {
 
 img.align-left {
 	float: left;
-	width: 250px;
-	height: 250px;
 	margin: 15px;
 	padding: 5px;
 }
 
 img.align-right {
 	float: right;
-	width: 250px;
-	height: 250px;
 	margin: 15px;
 	padding: 5px;
 }

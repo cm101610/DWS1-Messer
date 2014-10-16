@@ -179,3 +179,7 @@ img.alignnone {
 	margin: 10px;
 	padding: 10px;
 }
+
+#retired {
+	clear: left;
+}

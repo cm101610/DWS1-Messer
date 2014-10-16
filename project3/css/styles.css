@@ -145,3 +145,12 @@ ul {
 
 /***** Floating Images *****/
 
+img.align-left {
+	float: left;
+	margin: 15px;
+}
+
+img.align-right {
+	float: right;
+	margin: 15px;
+}

@@ -14,8 +14,9 @@ body {
 	background-color: #F4F4F4;
 	padding: 20px 40px;
 	margin: auto;
-	background-image: url("../images/nyyankees_bkg.jpg");
-	background-position: top-center;
+	background-image: url("../images/nylogo_bkg.png");
+	background-repeat: no-repeat;
+    background-position: top center;
 }
 
 img {

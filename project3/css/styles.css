@@ -33,6 +33,7 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	background-image: url("../images/nyyankees_bkg.jpg");
+	background-repeat: repeat-x;
 }
 
 strong {

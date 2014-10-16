@@ -17,6 +17,7 @@ body {
 	background-image: url("../images/nylogo_bkg.png");
 	background-repeat: no-repeat;
     background-position: top center;
+    background: linear-gradient(#336666, #66cccc);
 }
 
 img {

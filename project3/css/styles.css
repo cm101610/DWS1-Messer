@@ -160,3 +160,22 @@ img.align-right {
 img.alignnone {
 	margin: 15px;
 	padding: 5px;
+}
+
+#div {
+	background-color: #fff;
+}
+
+#content {
+	float: left;
+	width: 700px;
+	margin: 20px;
+	padding: 10px;
+}
+
+#sidebar {
+	float: left;
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+}

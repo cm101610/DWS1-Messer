@@ -1,0 +1,188 @@
+/***** Font *****/
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+}
+
+/***** Colors *****/
+
+body {
+	border: 2px #003D67;
+	border-width: 4px;
+	border-style: double;
+	border-radius: 25px;
+	background-color: #F4F4F4;
+	padding: 20px 40px;
+	margin: auto;
+	background-image: url("../images/nylogo_bkg.png");
+	background-repeat: repeat-y;
+    background-position: top center;
+}
+
+img {
+	border: 4px double #003D67;
+	border-radius: 25px;
+	box-shadow: 5px 5px 2.5px #888888;
+	margin-bottom: 2px;
+}
+
+h1, h2, h3 {
+	color: #003D67;
+}
+
+p {
+	color: #001A33;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+strong {
+	color: #DC343B;
+}
+
+em {
+	color: #363B48;
+}
+
+/***** Text Styling *****/
+
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lobster'), url(http://fonts.gstatic.com/s/lobster/v10/NIaFDq6p6eLpSvtV2DTNDQLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+
+h1 {
+	font-family: Gill Sans, Arial, sans-serif;
+	font-style: italic;
+	font-size: 6.0em; /***** 400% *****/
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: normal;
+	text-shadow: 2px 2px #7DA8D9;
+}
+
+h2 {
+	font-family: Gill Sans, Arial, sans-serif;
+	font-style: italic;
+	font-size: 3em; /***** 250% *****/
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: normal;
+	text-shadow: 2px 2px #7DA8D9;
+	text-decoration: underline;
+}
+
+h3 {
+	font-family: Gill Sans, Arial, sans-serif;
+	font-style: italic;
+	font-size: 2em; /***** 150% *****/
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: lighter;
+	text-shadow: 2px 2px #7DA8D9;
+}
+
+blockquote {
+	font-family: Lobster, cursive;
+	font-size: 2.5em; /***** 250% *****/
+	opacity: 0.7;
+	line-height: 1.5;
+}
+
+/***** Link Styling *****/
+
+a:link {
+	text-decoration: none;
+	color: #003D67;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #7DA8D9;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #DC343B;
+}
+
+a:active {
+	text-decoration: none;
+	color: #606C75;
+}
+
+ul.mainlinks {
+	list-style-type: none;
+	border-color: #003D67;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 25px;
+	padding: 10px 40px;
+	margin-left: auto;
+	margin-right: auto;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 2;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+ul.wsc {
+	list-style-type: none;
+	border-color: #003D67;
+	border-width: 4px;
+	border-style: none;
+	padding: 10px 40px;
+	margin-left: auto;
+	margin-right: auto;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 2;
+}
+
+ul {
+	list-style-type: none;
+}
+
+/***** Floating Images *****/
+
+img.align-left {
+	float: left;
+	margin: 15px;
+	padding: 5px;
+}
+
+img.align-right {
+	float: right;
+	margin: 15px;
+	padding: 5px;
+}
+
+img.alignnone {
+	margin: 15px;
+	padding: 5px;
+}
+
+#div {
+	background-color: #fff;
+}
+
+#content {
+	float: left;
+	width: 60%;
+	margin: 2%;
+	padding: 10px;
+}
+
+#sidebar {
+	float: left;
+	width: 30%;
+	margin: 1%;
+	padding: 10px;
+}
+
+#retired {
+	clear: left;
+}

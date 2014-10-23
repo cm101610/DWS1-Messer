@@ -130,7 +130,7 @@ ul.mainlinks {
 }
 
 ul.wsc {
-	list-style-type: circle;
+	list-style-type: none;
 	border-color: #003D67;
 	border-width: 4px;
 	border-style: none;

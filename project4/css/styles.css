@@ -230,3 +230,22 @@ tr:hover {
 #multirow:hover {
 	background-color: #7DA8D9;
 }
+
+/***** Form Styling *****/
+
+form {
+	list-style-type: none;
+	color: #DC343B;
+	border-color: #003D67;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 25px;
+	padding: 10px 40px;
+	margin-left: 150px;
+	margin-right: 150px;
+	text-align: center;
+	line-height: 2;
+	font-size: 150%;
+	background-image: url("../images/nyyankees_bkg.jpg");
+	box-shadow: 10px 10px 5px #888888;
+}

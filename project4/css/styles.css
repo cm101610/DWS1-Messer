@@ -203,7 +203,9 @@ th, td {
 td {
 	text-align: center;
 	border-bottom: 2px solid #111111;
-	border-top: 1px solid #999;
+	border-top: 2px solid #111111;
+	border-right: 2px solid #111111;
+	border-left: 2px solid #111111;
 }
 
 th {
@@ -211,7 +213,10 @@ th {
 	letter-spacing: 0.1em;
 	font-size: 90%;
 	border-bottom: 2px solid #111111;
-	border-top: 1px solid #999;
+	border-top: 2px solid #111111;
+	border-right: 2px solid #111111;
+	border-left: 2px solid #111111;
+	border-shadow: 2px 2px #7DA8D9;
 	text-align: center;
 }
 
